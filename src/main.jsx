@@ -55,7 +55,7 @@ const education = [
   ["Certificate in Cloud Computing",      "Refactory Academy",              "2026"],
   ["WordPress Development",               "WordPress",                      "2026"],
   ["ODE Certificate",                     "Groundbreaker Talents",          "2026"],
-  ["Uganda Certificate of Education",     "Maryhill High School Nyamitanga","2026"],
+  ["Uganda Certificate of Education",     "Maryhill High School",           "2026"],
 ];
 
 const contactLinks = [
