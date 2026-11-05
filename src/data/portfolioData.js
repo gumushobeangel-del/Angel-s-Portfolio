@@ -96,7 +96,6 @@ export const skillsData = [
       { name: "React.js", level: "Advanced", note: "Hooks, SPA routing, state management" },
       { name: "Streamlit", level: "Advanced", note: "Rapid AI & Data app prototyping" },
       { name: "UI/UX Architecture", level: "Proficient", note: "Design systems, accessibility, micro-interactions" },
-      { name: "Tailwind / Custom CSS", level: "Expert", note: "Glassmorphism, responsive grids, tokens" },
       { name: "Vite", level: "Advanced", note: "Modern fast bundler & toolchain" }
     ]
   },
@@ -108,9 +107,7 @@ export const skillsData = [
     items: [
       { name: "FastAPI", level: "Advanced", note: "High-performance async APIs, Pydantic v2" },
       { name: "Django", level: "Advanced", note: "ORM, auth, enterprise architectures" },
-      { name: "REST APIs", level: "Expert", note: "RESTful standards, error schemas, token auth" },
-      { name: "SQLAlchemy 2.0", level: "Proficient", note: "Declarative models, migrations, Alembic" },
-      { name: "Authentication & RBAC", level: "Advanced", note: "Argon2id, JWT, role hierarchies" }
+      { name: "REST APIs", level: "Expert", note: "RESTful standards, error schemas, token auth" }
     ]
   },
   {
