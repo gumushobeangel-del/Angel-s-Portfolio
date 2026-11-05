@@ -35,7 +35,6 @@ You can deploy this Vite project using Vercel or Netlify:
 ## Personalise before publishing
 - Add a real portfolio URL after deployment.
 - Add repository/demo links to each project when available.
-- Confirm the exact official title of the ODE certificate.
 - Confirm the certificate names and dates match the certificates.
 - If you want a CV download button, add your final PDF as `public/Gumoshabe_Angel_CV.pdf` and add a link to it in the page.
 

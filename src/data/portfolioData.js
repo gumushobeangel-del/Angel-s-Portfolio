@@ -67,7 +67,7 @@ export const personalInfo = {
 
 export const stats = [
   { num: "3+", label: "Flagship Systems", subtext: "Production-ready solutions" },
-  { num: "7", label: "Certifications", subtext: "From Turing & Refactory" },
+  { num: "6", label: "Credentials", subtext: "Education & professional certificates" },
   { num: "15+", label: "Core Technologies", subtext: "Python, React, AI, DBs" },
   { num: "<150ms", label: "API Latency Focus", subtext: "Optimized backend performance" },
 ];
@@ -83,7 +83,8 @@ export const skillsData = [
       { name: "JavaScript", level: "Advanced", note: "ES6+, Async, DOM APIs" },
       { name: "TypeScript", level: "Proficient", note: "Strict typing, React interfaces" },
       { name: "C / C++", level: "Intermediate", note: "Arduino, Embedded systems" },
-      { name: "HTML5 & CSS3", level: "Expert", note: "Semantic web, Modern responsive layouts" }
+      { name: "HTML", level: "Expert", note: "Semantic web structure and accessible markup" },
+      { name: "CSS", level: "Expert", note: "Modern styling and responsive layouts" }
     ]
   },
   {
@@ -319,13 +320,6 @@ export const educationData = [
     skills: ["CMS Architecture", "PHP & Themes", "Client Site Management"]
   },
   {
-    qualification: "ODE Certificate",
-    institution: "Groundbreaker Talents",
-    year: "2026",
-    credentialType: "Digital Excellence",
-    skills: ["Digital Product Mindset", "Leadership", "Technical Communication"]
-  },
-  {
     qualification: "Uganda Certificate of Education (UCE)",
     institution: "St. Francis High School",
     year: "2026",
@@ -355,7 +349,7 @@ export const terminalCommands = {
     "and delightful user experiences."
   ],
   skills: [
-    "Core Languages: Python (FastAPI/Django), JavaScript, TypeScript, C/C++, HTML5, CSS3",
+    "Core Languages: Python (FastAPI/Django), JavaScript, TypeScript, C/C++, HTML, CSS",
     "Frontend Stack: React.js, Streamlit, Vite, Modern Responsive Design",
     "Backend & DB:   FastAPI, Django, PostgreSQL, SQLite, SQLAlchemy 2.0, REST APIs",
     "AI & ML Stack:  Generative AI, LLMs, RAG, LangChain, Prompt Engineering, Embeddings",
@@ -382,7 +376,6 @@ export const terminalCommands = {
     "• Certificate in Machine Learning      - Turing College (2026)",
     "• Certificate in Cloud Computing       - Refactory Academy (2026)",
     "• WordPress Development                - WordPress (2026)",
-    "• ODE Certificate                      - Groundbreaker Talents (2026)",
     "• Uganda Certificate of Education      - St. Francis High School (2026)"
   ],
   contact: [

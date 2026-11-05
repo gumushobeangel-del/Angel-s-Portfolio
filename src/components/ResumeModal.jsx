@@ -38,7 +38,7 @@ const resumeProjects = [
 ];
 
 const technicalSkills = [
-  ["Programming Languages", "Python, JavaScript, TypeScript, HTML5 and CSS3."],
+  ["Programming Languages", "Python, JavaScript, TypeScript, HTML and CSS."],
   ["Frontend Development", "React.js, Streamlit, responsive web design and user interface development."],
   ["Backend Development", "Django, Python, REST API development and backend application logic."],
   ["Artificial Intelligence & Machine Learning", "Generative AI, Machine Learning, LLMs, RAG, LangChain, prompt engineering, embeddings and AI API integration."],
